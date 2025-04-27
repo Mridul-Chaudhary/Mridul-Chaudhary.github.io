@@ -1,14 +1,20 @@
-## single cell RNASeq data visualization with Seurat for T cell exhaustion biomarker identification
+# mridul-chaudhary.github.io
+
+This page is used to host and highlight projects I’ve done over the years. Content displayed is contained within my GitHub repo. Whenever possible, My work-related code and/or datasets used cannot be shared due to regulations or other privacy concerns.
+
+If you have any questions or feedback, feel free to reach out to me.
+
+### single cell RNASeq data visualization with Seurat for T cell exhaustion biomarker identification
+[Github](https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/htmls/Tcell_exhaustion_Seurat_report.html), [View HTML Report](https://htmlpreview.github.io/?https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/htmls/Tcell_exhaustion_Seurat_report.html)
 
 
-## Trying some proteomics data tools
-Github, html
+### Poster presented at NGBT 2018 conference
+[Github](https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/pdfs/ngbt_poster.pdf), [View Poster](https://mridul-chaudhary.github.io/pdfs/ngbt_poster.pdf)
 
 
-## An assignment for AstraZeneca
+### Trying some proteomics data tools
+[Github](https://github.com/Mridul-Chaudhary/try_proteomics), [View HTML report](https://mridul-chaudhary.github.io/try_proteomics/proteomics_report.html)
 
-Github, html
 
-
-## Poster presented at NGBT 2018 conference
-Github
+### An assignment for AstraZeneca
+[Github](https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/htmls/AZ_Mridul_notebook.html), [View HTML Report](https://htmlpreview.github.io/?https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/htmls/AZ_Mridul_notebook.html)
