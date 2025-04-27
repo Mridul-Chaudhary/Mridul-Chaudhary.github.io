@@ -5,7 +5,7 @@ If you have any questions or feedback, feel free to reach out to me.
 ### My projects
 
 #### single cell RNASeq data visualization with Seurat for T cell exhaustion biomarker identification
-[Github](https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/htmls/Tcell_exhaustion_Seurat_report.html), [View HTML Report](https://htmlpreview.github.io/?https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/htmls/Tcell_exhaustion_Seurat_report.html)
+[Github](https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/htmls/Tcell_exhaustion_Seurat_report.html), [View HTML Report](https://mridul-chaudhary.github.io/htmls/Tcell_exhaustion_Seurat_report.html)
 
 
 #### Poster presented at NGBT 2018 conference
@@ -17,4 +17,4 @@ If you have any questions or feedback, feel free to reach out to me.
 
 
 #### An assignment for AstraZeneca
-[Github](https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/htmls/AZ_Mridul_notebook.html), [View HTML Report](https://htmlpreview.github.io/?https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/htmls/AZ_Mridul_notebook.html)
+[Github](https://github.com/Mridul-Chaudhary/Mridul-Chaudhary.github.io/blob/main/htmls/AZ_Mridul_notebook.html), [View HTML Report](https://mridul-chaudhary.github.io/htmls/AZ_Mridul_notebook.html)
