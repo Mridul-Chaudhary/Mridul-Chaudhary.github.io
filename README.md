@@ -1,5 +1,3 @@
-# mridul-chaudhary.github.io
-
 This page is used to host and highlight projects I’ve done over the years. Content displayed is contained within my GitHub repo. Whenever possible, My work-related code and/or datasets used cannot be shared due to regulations or other privacy concerns.
 
 If you have any questions or feedback, feel free to reach out to me.
