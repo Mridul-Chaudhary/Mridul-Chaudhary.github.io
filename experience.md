@@ -18,7 +18,13 @@ permalink: /experience/
   <article class="timeline-item"><div class="timeline-meta">Jul 2017 &ndash; May 2019<span>Bengaluru</span></div><div><h2>Associate Scientist</h2><p>MedGenome · R&amp;D team</p><ul><li>Identified CD8+ T-cell exhaustion biomarkers in checkpoint blockade immunotherapy using a Seurat workflow for 10x Chromium UMI data.</li><li>Designed an RNA signature for sarcomatoid renal cell carcinoma using feature selection and classification models.</li><li>Analyzed TCGA data to investigate Hippo pathway activation in cancer.</li></ul></div></article>
 </section>
 
-<section class="section split">
-  <div><p class="eyebrow">Leadership</p><h2>Helping teams grow</h2><p>Managed bioinformatics projects, including planning, collaboration, resource allocation, and changing client requirements.</p></div>
-  <div><ul><li>Managed a team of 3 and built an R Shiny app for 10x single-cell visualization.</li><li>Mentored a team of 6 building a single-cell database in Scanpy AnnData format.</li><li>Trained 25 colleagues in building Docker containers.</li></ul></div>
+<section class="section leadership-section">
+  <p class="eyebrow">Leadership</p>
+  <h2>Helping teams grow</h2>
+  <ul>
+    <li>Managed bioinformatics projects, including planning, collaboration, resource allocation, and changing client requirements.</li>
+    <li>Managed a team of 3 and built an R Shiny app for 10x single-cell visualization.</li>
+    <li>Mentored a team of 6 building a single-cell database in Scanpy AnnData format.</li>
+    <li>Trained 25 colleagues in building Docker containers.</li>
+  </ul>
 </section>

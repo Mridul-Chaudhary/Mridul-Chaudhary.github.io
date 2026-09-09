@@ -14,7 +14,10 @@ description: Mridul Chaudhary is a Bioinformatician working across NGS, workflow
       <a class="button secondary" href="{{ '/projects/' | relative_url }}">View selected projects</a>
     </div>
   </div>
-  <div class="portrait-placeholder" role="img" aria-label="Placeholder for Mridul Chaudhary profile photo"><span>Profile photo<br>coming soon</span></div>
+  <div class="portrait-frame">
+    <img src="{{ '/assets/images/cafe_pic.jpg' | relative_url }}" alt="Mridul Chaudhary" onerror="this.hidden=true; this.nextElementSibling.hidden=false;">
+    <span class="portrait-placeholder" hidden>Profile photo<br>unavailable</span>
+  </div>
 </section>
 
 <section class="section">
