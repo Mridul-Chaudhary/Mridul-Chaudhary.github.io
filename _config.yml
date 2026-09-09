@@ -72,3 +72,7 @@ kramdown:
 
 #theme
 theme: jekyll-theme-minimal
+title: Mridul Chaudhary | Bioinformatician
+description: Bioinformatician working across NGS, workflows, and single-cell analysis.
+url: "https://mridul-chaudhary.github.io"
+github_username: Mridul-Chaudhary

@@ -1,4 +1,21 @@
-This page is used to host and highlight projects I’ve done over the years. Content displayed is contained within my GitHub repo. Whenever possible, My work-related code and/or datasets used cannot be shared due to regulations or other privacy concerns.
+# Mridul Chaudhary
+
+Personal portfolio for Mridul Chaudhary, Bioinformatician. The site highlights experience across NGS diagnostics, computational drug discovery, drug development, workflow engineering, and single-cell RNA sequencing.
+
+## Local preview
+
+This repository is published from GitHub Pages. To preview the current branch locally:
+
+```bash
+bundle install
+bundle exec jekyll serve --livereload --baseurl ""
+```
+
+Open <http://127.0.0.1:4000/> in a browser. The preview uses whichever branch is currently checked out, so the `layout` branch can be reviewed without pushing or merging into `main`.
+
+## Existing project assets
+
+The reports and poster are kept in `htmls/` and `pdfs/`. Their presentation on the site is defined in [projects.md](projects.md).
 
 If you have any questions or feedback, feel free to reach out to me.
 
